@@ -1,0 +1,80 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8A"</DEVICE>
+ <WORKING_DIR>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\main_7.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.7.374\avrasm\inc\m8Adef.inc</FILE>
+  <FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\macros.asm</FILE>
+  <FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE>
+  <FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <on_reset><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\main_7.asm</FILE><LINE>45</LINE></on_reset>
+  <isr_t2><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\main_7.asm</FILE><LINE>30</LINE></isr_t2>
+  <isr_t0><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\main_7.asm</FILE><LINE>34</LINE></isr_t0>
+  <display><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>7</LINE></display>
+  <digit><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>27</LINE></digit>
+  <reset_digits><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>60</LINE></reset_digits>
+  <label_zero><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>68</LINE></label_zero>
+  <label_one><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>72</LINE></label_one>
+  <label_two><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>76</LINE></label_two>
+  <label_three><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>80</LINE></label_three>
+  <label_four><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>84</LINE></label_four>
+  <label_five><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>88</LINE></label_five>
+  <label_six><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>92</LINE></label_six>
+  <label_seven><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>96</LINE></label_seven>
+  <label_eight><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>100</LINE></label_eight>
+  <label_nine><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>104</LINE></label_nine>
+  <zero><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>110</LINE></zero>
+  <one><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>120</LINE></one>
+  <two><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>130</LINE></two>
+  <three><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>140</LINE></three>
+  <four><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>150</LINE></four>
+  <five><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>160</LINE></five>
+  <six><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>170</LINE></six>
+  <seven><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>180</LINE></seven>
+  <eight><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>190</LINE></eight>
+  <nine><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\display.asm</FILE><LINE>200</LINE></nine>
+  <step_count><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>19</LINE></step_count>
+  <backtozero><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>36</LINE></backtozero>
+  <inc_high><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>32</LINE></inc_high>
+  <conv_hextodec><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>43</LINE></conv_hextodec>
+  <DEC_DIG><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>76</LINE></DEC_DIG>
+  <DEC_DIG1><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>78</LINE></DEC_DIG1>
+  <DEC_DIG2><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>83</LINE></DEC_DIG2>
+  <PressedButtonB><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>91</LINE></PressedButtonB>
+  <DEC_d><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>95</LINE></DEC_d>
+  <PressedButtonD><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>100</LINE></PressedButtonD>
+  <INC_d><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>104</LINE></INC_d>
+  <UnPressedButtonD><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>110</LINE></UnPressedButtonD>
+  <UnPressedButtonB><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>114</LINE></UnPressedButtonB>
+  <checkBothButton><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>118</LINE></checkBothButton>
+  <BothPressed><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>126</LINE></BothPressed>
+  <EEPROM_write><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>137</LINE></EEPROM_write>
+  <Set100><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>131</LINE></Set100>
+  <EEPROM_read><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>149</LINE></EEPROM_read>
+  <setr14_0><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>160</LINE></setr14_0>
+  <setr15_0><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>166</LINE></setr15_0>
+  <delay_sec><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>176</LINE></delay_sec>
+  <loop3><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>180</LINE></loop3>
+  <loop2><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>183</LINE></loop2>
+  <loop1><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\functions.asm</FILE><LINE>186</LINE></loop1>
+  <main><FILE>C:\Users\Grachus\OneDrive\Desktop\EE443\lab assignments\assignment1\AssemblerApplication1\AssemblerApplication1\main_7.asm</FILE><LINE>60</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>
